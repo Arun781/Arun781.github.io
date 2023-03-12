@@ -100,16 +100,22 @@
     font-weight: bold;
     font-size: 40px;
     animation: changetext 5s infinite alternate-reverse;
+    
 }
 @keyframes changetext{
-    0%{content: "Java";}
+    0%{content:  "Java";}
     10%{content: "HTML";}
     20%{content: "CSS";}
+    25%{counter: "Tomcat";}
     30%{content: "Boostrap";}
+    35%{counter: "Hibernate";}
     40%{content: "SQL";}
+    45%{counter: "MAVEN";}
     50%{content: "Spring";}
+    55%{counter: "QUARKUS";}
     60%{content: "Servlets";}
     80%{content: "JPA";}
+    90%{content:  "LAMBOK";}
     100%{content: "JSP";}
 }
 .home .content p{
