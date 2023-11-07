@@ -106,7 +106,10 @@
     0%{content:  "Java";}
     10%{content: "HTML";}
     20%{content: "CSS";}
-    25%{counter: "Tomcat";}
+    25%{counter: ".Net FrameWork";}
+    26%{counter: "ASP.NET";}
+    26%{counter: "MVC.NET";}
+    26%{counter: "WPF";}
     30%{content: "Boostrap";}
     35%{counter: "Hibernate";}
     40%{content: "SQL";}
